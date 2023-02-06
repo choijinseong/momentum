@@ -101,3 +101,29 @@ button {
   font-weight: 900;
   cursor: pointer;
 }
+
+#bookmark {
+  position: fixed;
+  top: 55%;
+  background-color: black;
+  font-size: 50px;
+}
+
+#links {
+  display: flex;
+  margin-top: 500px;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+#links li {
+  margin-right: 25px;
+  font-size: 25px;
+  font-weight: 800;
+  font-family: "Courier New", Courier, monospace;
+}
