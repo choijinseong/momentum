@@ -102,13 +102,6 @@ button {
   cursor: pointer;
 }
 
-#bookmark {
-  position: fixed;
-  top: 55%;
-  background-color: black;
-  font-size: 50px;
-}
-
 #links {
   display: flex;
   margin-top: 500px;
